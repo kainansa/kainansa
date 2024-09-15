@@ -54,57 +54,48 @@
     </header>
     <main class="container">
         <section class="film">
-            <h2>The Shawshank Redemption</h2>
-            <img src="https://via.placeholder.com/600x400?text=The+Shawshank+Redemption" alt="The Shawshank Redemption">
-            <p><strong>Director:</strong> Frank Darabont</p>
-            <p><strong>Release Year:</strong> 1994</p>
-            <p><strong>Genre:</strong> Drama</p>
-            <p><strong>Description:</strong> Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</p>
+            <h2>Thanh Gươm Diệt Quỷ</h2>
+            <img src="https://via.placeholder.com/600x400?text=Thanh+Gươm+Diệt+Quỷ" alt="Thanh Gươm Diệt Quỷ">
+            <p><strong>Director:</strong> Haruo Sotozaki</p>
+            <p><strong>Release Year:</strong> 2020</p>
+            <p><strong>Genre:</strong> Animation, Action</p>
+            <p><strong>Description:</strong> In Taisho-era Japan, a young boy becomes a demon slayer to avenge his family and cure his sister who has been transformed into a demon.</p>
         </section>
         
         <section class="film">
-            <h2>The Godfather</h2>
-            <img src="https://via.placeholder.com/600x400?text=The+Godfather" alt="The Godfather">
-            <p><strong>Director:</strong> Francis Ford Coppola</p>
-            <p><strong>Release Year:</strong> 1972</p>
-            <p><strong>Genre:</strong> Crime, Drama</p>
-            <p><strong>Description:</strong> The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.</p>
+            <h2>Doraemon</h2>
+            <img src="https://via.placeholder.com/600x400?text=Doraemon" alt="Doraemon">
+            <p><strong>Director:</strong> Tsutomu Shibayama</p>
+            <p><strong>Release Year:</strong> 1980</p>
+            <p><strong>Genre:</strong> Animation, Comedy, Family</p>
+            <p><strong>Description:</strong> Doraemon is a robotic cat from the future who travels back in time to help a young boy named Nobita Nobi navigate the challenges of growing up.</p>
         </section>
         
         <section class="film">
-            <h2>Inception</h2>
-            <img src="https://via.placeholder.com/600x400?text=Inception" alt="Inception">
-            <p><strong>Director:</strong> Christopher Nolan</p>
-            <p><strong>Release Year:</strong> 2010</p>
-            <p><strong>Genre:</strong> Science Fiction, Action</p>
-            <p><strong>Description:</strong> A thief who enters the dreams of others to steal secrets from their subconscious is given a chance to have his criminal history erased if he can implant an idea into a target's subconscious.</p>
+            <h2>Conan</h2>
+            <img src="https://via.placeholder.com/600x400?text=Conan" alt="Conan">
+            <p><strong>Director:</strong> Yasuichiro Yamamoto</p>
+            <p><strong>Release Year:</strong> 1978</p>
+            <p><strong>Genre:</strong> Animation, Adventure, Mystery</p>
+            <p><strong>Description:</strong> A young detective named Conan Edogawa solves cases and mysteries while hiding his true identity as a high school student.</p>
         </section>
 
         <section class="film">
-            <h2>Interstellar</h2>
-            <img src="https://via.placeholder.com/600x400?text=Interstellar" alt="Interstellar">
-            <p><strong>Director:</strong> Christopher Nolan</p>
-            <p><strong>Release Year:</strong> 2014</p>
-            <p><strong>Genre:</strong> Science Fiction, Drama</p>
-            <p><strong>Description:</strong> A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.</p>
+            <h2>Shin Cậu Bé Bút Chì</h2>
+            <img src="https://via.placeholder.com/600x400?text=Shin+Cậu+Bé+Bút+Chì" alt="Shin Cậu Bé Bút Chì">
+            <p><strong>Director:</strong> Keiichi Hara</p>
+            <p><strong>Release Year:</strong> 1992</p>
+            <p><strong>Genre:</strong> Animation, Comedy</p>
+            <p><strong>Description:</strong> The series follows the misadventures of a young boy named Shin Nohara, who often finds himself in humorous and embarrassing situations.</p>
         </section>
-
+        
         <section class="film">
-            <h2>The Dark Knight</h2>
-            <img src="https://via.placeholder.com/600x400?text=The+Dark+Knight" alt="The Dark Knight">
-            <p><strong>Director:</strong> Christopher Nolan</p>
-            <p><strong>Release Year:</strong> 2008</p>
-            <p><strong>Genre:</strong> Action, Crime, Drama</p>
-            <p><strong>Description:</strong> When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, forcing Batman to abandon his fight against crime and return to his previous role as Gotham's protector.</p>
-        </section>
-
-        <section class="film">
-            <h2>Forrest Gump</h2>
-            <img src="https://via.placeholder.com/600x400?text=Forrest+Gump" alt="Forrest Gump">
-            <p><strong>Director:</strong> Robert Zemeckis</p>
-            <p><strong>Release Year:</strong> 1994</p>
-            <p><strong>Genre:</strong> Drama, Romance</p>
-            <p><strong>Description:</strong> The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, the O.J. Simpson trial—through it all, one man maintains a single viewpoint, and his name is Forrest Gump.</p>
+            <h2>Spirited Away</h2>
+            <img src="https://via.placeholder.com/600x400?text=Spirited+Away" alt="Spirited Away">
+            <p><strong>Director:</strong> Hayao Miyazaki</p>
+            <p><strong>Release Year:</strong> 2001</p>
+            <p><strong>Genre:</strong> Animation, Adventure, Fantasy</p>
+            <p><strong>Description:</strong> A young girl, Chihiro, stumbles into a mysterious and magical world where she must work in a bathhouse to save her parents and return to the human world.</p>
         </section>
     </main>
     <footer>
