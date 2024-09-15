@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @kainansa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-kainansa/kainansa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,7 +18,7 @@ You can click the Preview link to take a look at your changes.
             text-align: center;
         }
         .container {
-            max-width: 800px;
+            max-width: 1000px;
             margin: auto;
             padding: 1em;
         }
@@ -81,6 +69,42 @@ You can click the Preview link to take a look at your changes.
             <p><strong>Release Year:</strong> 1972</p>
             <p><strong>Genre:</strong> Crime, Drama</p>
             <p><strong>Description:</strong> The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.</p>
+        </section>
+        
+        <section class="film">
+            <h2>Inception</h2>
+            <img src="https://via.placeholder.com/600x400?text=Inception" alt="Inception">
+            <p><strong>Director:</strong> Christopher Nolan</p>
+            <p><strong>Release Year:</strong> 2010</p>
+            <p><strong>Genre:</strong> Science Fiction, Action</p>
+            <p><strong>Description:</strong> A thief who enters the dreams of others to steal secrets from their subconscious is given a chance to have his criminal history erased if he can implant an idea into a target's subconscious.</p>
+        </section>
+
+        <section class="film">
+            <h2>Interstellar</h2>
+            <img src="https://via.placeholder.com/600x400?text=Interstellar" alt="Interstellar">
+            <p><strong>Director:</strong> Christopher Nolan</p>
+            <p><strong>Release Year:</strong> 2014</p>
+            <p><strong>Genre:</strong> Science Fiction, Drama</p>
+            <p><strong>Description:</strong> A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.</p>
+        </section>
+
+        <section class="film">
+            <h2>The Dark Knight</h2>
+            <img src="https://via.placeholder.com/600x400?text=The+Dark+Knight" alt="The Dark Knight">
+            <p><strong>Director:</strong> Christopher Nolan</p>
+            <p><strong>Release Year:</strong> 2008</p>
+            <p><strong>Genre:</strong> Action, Crime, Drama</p>
+            <p><strong>Description:</strong> When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, forcing Batman to abandon his fight against crime and return to his previous role as Gotham's protector.</p>
+        </section>
+
+        <section class="film">
+            <h2>Forrest Gump</h2>
+            <img src="https://via.placeholder.com/600x400?text=Forrest+Gump" alt="Forrest Gump">
+            <p><strong>Director:</strong> Robert Zemeckis</p>
+            <p><strong>Release Year:</strong> 1994</p>
+            <p><strong>Genre:</strong> Drama, Romance</p>
+            <p><strong>Description:</strong> The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, the O.J. Simpson trial—through it all, one man maintains a single viewpoint, and his name is Forrest Gump.</p>
         </section>
     </main>
     <footer>
